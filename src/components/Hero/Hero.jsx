@@ -11,7 +11,7 @@ import { getImageUrl } from "../../utils";
                  </p>
                  <a href="sparshisingh034@gmail.com" className={styles.contactBtn}>Contact Me</a>
             </div>
-            <img src={getImageUrl("hero/heroImage.png")} 
+            <img src={getImageUrl("IMG-20230530-WA0018.jpg")} 
             alt="Hero image of me" className={styles.heroImg}/>
             <div className={styles.topBlur}/>
            <div className={styles.bottomBlur}/>
